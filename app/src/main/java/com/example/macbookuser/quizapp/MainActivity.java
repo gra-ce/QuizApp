@@ -186,7 +186,7 @@ public class MainActivity extends AppCompatActivity {
                 scoreValue--;
                 score.setText(getString(R.string.scoreValue) + scoreValue);
             }
-
+///yay comment
         }
     }
 
