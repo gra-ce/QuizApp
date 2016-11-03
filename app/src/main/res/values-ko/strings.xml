@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1_text">고양이는 생선을 먹어요</string>
+    <string name="question4_text"> 세계는 평평하다</string>
+    <string name="question6_text"> 당신은 최고입니다</string>
+    <string name="button_false_text"> 아니</string>
+    <string name="back">뒤로</string>
+    <string name="button_true_text"> 예</string>
+    <string name="button_next"> 다음</string>
+    <string name="answer">대답</string>
+    <string name="CheatButton"> 확실합니까</string>
+    <string name="next">다음</string>
+    <string name="question2_text">드라큘라는 피를 좋아한다</string>
+    <string name="question7_text"> 하늘은 녹색</string>
+    <string name="question8_text"> 당신은 누구인가?</string>
+    <string name="scoreValue"> 점수:</string>
+    <string name="toast_correct"> 잘 했어!</string>
+    <string name="toast_false"> 다시 시도</string>
+    <string name="score">점수:</string>
+</resources>

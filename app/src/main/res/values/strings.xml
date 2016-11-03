@@ -5,22 +5,22 @@
     <string name="button_next">Next</string>
     <string name="question1_text">Cats eat fish.</string>
     <string name="question2_text">Dracula likes blood.</string>
-    <string name="question3_text">Female monarchs have spots.</string>
+    <string name="question3_text" translatable="false">Female monarchs have spots.</string>
     <string name="question4_text">The world is flat.</string>
-    <string name="question5_text">Life is like a ferris wheel.</string>
+    <string name="question5_text" translatable="false">Life is like a ferris wheel.</string>
     <string name="question6_text">You are awesome.</string>
     <string name="question7_text">The sky is green.</string>
     <string name="question8_text">Who are you?</string>
     <string name="toast_correct">That\'s Correct!</string>
     <string name="toast_false"> That\'s Incorrect!</string>
-    <string name="question_text">question_text</string>
-    <string name="cheat">Cheat</string>
+    <string name="question_text" translatable="false">question_text</string>
+    <string name="cheat" translatable="false">Cheat</string>
     <string name="CheatButton">Are You Sure You Want to Cheat?</string>
     <string name="next">Next</string>
     <string name="back">Back</string>
     <string name="answer">Answer</string>
     <string namem="button_cheat">Cheat Button</string>
-    <string name="cheat_button">Cheat Button</string>
+    <string name="cheat_button" translatable="false">Cheat Button</string>
     <string name="score">Score: </string>
     <string name="scoreValue">"Score: "</string>
 

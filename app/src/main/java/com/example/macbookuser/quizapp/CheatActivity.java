@@ -37,6 +37,7 @@ public class CheatActivity extends AppCompatActivity {
                 //don't need any addresses in the parameters
                 Intent i = new Intent();
                 i.putExtra(EXTRA_CHEATED,hasCheated);
+                setResult(RESULT_OK,i);
 
 
 
